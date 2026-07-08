@@ -12,8 +12,9 @@ Each project README answers four questions: what problem it solves, what system 
 
 - **[meta-analysis-dmhi](https://github.com/YAHUIyahui/meta-analysis-dmhi)** — Three-level meta-analysis (R / `metafor`) of 60 RCTs of digital mental health interventions for older adults. Finding: human oversight is the dominant moderator of effectiveness (guided *g* = 0.43 vs. unguided *g* ≈ 0). Reproducible analysis pipeline.
 - **[mindflow-web](https://github.com/YAHUIyahui/mindflow-web)** — MindMate Pro: a three-layer, safety-constrained LLM mental health assistant (deterministic clinical logic controller bounding LLM generation; risk alerts; audit trail).
-- **[MindfulAging](https://github.com/YAHUIyahui/MindfulAging)** — Culturally adapted Cantonese mobile mindfulness intervention for older adults; RCT (N = 144) with active control and 12-week follow-up.
-- **[icbt-demo](https://github.com/YAHUIyahui/icbt-demo)** — CBT-based AI chatbot (RCT published in *JMIR mHealth and uHealth*, doi: 10.2196/63806).
+- **[mindful-aging](https://github.com/YAHUIyahui/mindful-aging)** — 樂齡靜觀: culturally adapted Cantonese mobile mindfulness mini-program for older adults; RCT (N = 144) with active control and 12-week follow-up. The protocol validated here grounds the clinical controller in MindMate Pro.
+- **[MindfulCityU](https://github.com/YAHUIyahui/MindfulCityU)** — Digital mental health platform for university students (mindfulness content + AI Q&A agent), built under a CityU LEAD grant.
+- **[icbt-demo](https://github.com/YAHUIyahui/icbt-demo)** — Interactive CBT platform for secondary-school students (CBT modules + AI chat + feedback); collaborative project, data-collection stage.
 
 ## Links
 
