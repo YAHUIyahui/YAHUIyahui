@@ -1,22 +1,31 @@
-# Yahui Wang
+# Yahui Wang · 王雅慧
 
-PhD Candidate in Psychology, City University of Hong Kong · MSc Statistics (NUS) · BSc Mathematics
+I design, build and test AI systems for mental health, from LLM agents and deployed products to randomized controlled trials.
+PhD Candidate in Psychology, City University of Hong Kong · Founder, Psybot Limited · formerly Data Science Engineer, Micron Technology.
 
-I work on the safety and evaluation of AI systems deployed in high-stakes, human-facing domains. My strongest fit is with work on **multilingual safety, AI evaluation, and human-centered alignment**. I am particularly interested in building safety evaluations for LLM assistants in Chinese/Cantonese mental-health-adjacent conversations, where failures involve crisis recognition, harmful advice, sycophancy, over-reliance, and escalation to human support.
+| | |
+|---|---|
+| **Research and publications** | [yahuiyahui.github.io](https://yahuiyahui.github.io) |
+| **Products and work experience** | [yahuiyahui.github.io/portfolio](https://yahuiyahui.github.io/portfolio/) |
 
-My background combines three years of industry ML engineering (Micron Technology, Singapore), a quantitative PhD (meta-analysis, RCT design, psychometrics), and the design and field deployment of a safety-constrained LLM mental health assistant used by elderly-service NGOs in Hong Kong.
+## Live products
 
-## Selected projects
+| Product | What it is | Try it |
+|---|---|---|
+| **Reframe** | Agentic CBT tutor in Mandarin, Cantonese and English; intervention arm of a three-arm RCT | [Live demo and 2-min video](https://icbt-ai-tutor.wendy614674229.workers.dev) |
+| **LeLing 乐龄伴** | AI companion for older adults with medication reminders and social-worker review; Tencent S-Makers / LIGHT project | [Open app](https://lelingban-care-hk.pages.dev) |
+| **MindfulCityU** | Campus mental health platform with an 8-week mindfulness programme and AI Q&A; CityU LEAD grant | [Open app](https://mindfulcityu.pages.dev) |
+| **Flatmate Butler 合租生活管家** | Shared-living app for splitting costs, chores and house rules | [Open app](https://yahuiyahui.github.io/flatmate-butler/) |
 
-Each project README answers four questions: what problem it solves, what system I built, how it was evaluated, and what open research questions remain.
+Source code for the deployed platforms is private because they serve real users. Demos are open above.
 
-- **[meta-analysis-dmhi](https://github.com/YAHUIyahui/meta-analysis-dmhi)** — Three-level meta-analysis (R / `metafor`) of 60 RCTs of digital mental health interventions for older adults. Finding: human oversight is the dominant moderator of effectiveness (guided *g* = 0.43 vs. unguided *g* ≈ 0). Reproducible analysis pipeline.
-- **[mindflow-web](https://github.com/YAHUIyahui/mindflow-web)** — MindMate Pro: a three-layer, safety-constrained LLM mental health assistant (deterministic clinical logic controller bounding LLM generation; risk alerts; audit trail).
-- **[mindful-aging](https://github.com/YAHUIyahui/mindful-aging)** — 樂齡靜觀: culturally adapted Cantonese mobile mindfulness mini-program for older adults; RCT (N = 144) with active control and 12-week follow-up. The protocol validated here grounds the clinical controller in MindMate Pro.
-- **[MindfulCityU](https://github.com/YAHUIyahui/MindfulCityU)** — Digital mental health platform for university students (mindfulness content + AI Q&A agent), built under a CityU LEAD grant.
-- **[icbt-demo](https://github.com/YAHUIyahui/icbt-demo)** — Interactive CBT platform for secondary-school students (CBT modules + AI chat + feedback); collaborative project, data-collection stage.
+## Open code and materials
 
-## Links
+- **[meta-analysis-dmhi](https://github.com/YAHUIyahui/meta-analysis-dmhi)** · Reproducible R / `metafor` pipeline for a three-level meta-analysis of digital mental health interventions for older adults (PROSPERO CRD42024505976).
+- **[mindful-aging](https://github.com/YAHUIyahui/mindful-aging)** · Culturally adapted Cantonese mindfulness mini-program for older adults, evaluated in a randomized controlled trial.
+- **[psych-llm-eval-course](https://github.com/YAHUIyahui/psych-llm-eval-course)** · 28-day course on evaluating mental health LLMs and building an evaluated CBT agent, with slides, notebooks and workshop guides (in Chinese).
+- **[leling](https://github.com/YAHUIyahui/leling)** · Public site and deployment guide for LeLing.
 
-- Google Scholar: https://scholar.google.com/citations?user=RnFoaTkAAAAJ
-- Email: yahuiwang4-c@my.cityu.edu.hk
+## Contact
+
+wendy614674229@gmail.com · [Google Scholar](https://scholar.google.com/citations?user=RnFoaTkAAAAJ) · [ORCID](https://orcid.org/0000-0001-9354-8507)
