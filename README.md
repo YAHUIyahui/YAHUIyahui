@@ -3,10 +3,8 @@
 I design, build and test AI systems for mental health, from LLM agents and deployed products to randomized controlled trials.
 PhD Candidate in Psychology, City University of Hong Kong · Founder, Psybot Limited · formerly Data Science Engineer, Micron Technology.
 
-| | |
-|---|---|
-| **Research and publications** | [yahuiyahui.github.io](https://yahuiyahui.github.io) |
-| **Products and work experience** | [yahuiyahui.github.io/portfolio](https://yahuiyahui.github.io/portfolio/) |
+**Research and publications →** [yahuiyahui.github.io](https://yahuiyahui.github.io)  
+**Products and work experience →** [yahuiyahui.github.io/portfolio](https://yahuiyahui.github.io/portfolio/)
 
 ## Live products
 
